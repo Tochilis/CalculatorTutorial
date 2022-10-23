@@ -15,6 +15,7 @@ int main()
     double y = 0.0;
     double result = 0.0;
     char oper = '+';
+    int n;
 
     cout << "Calculator Console Application" << endl << endl;
     cout << "Please enter the operation to perform. Format: a+b | a-b | a*b | a/b"
